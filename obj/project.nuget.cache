@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3FOkXRkLjMo=",
+  "dgSpecHash": "mpyYPViK6NU=",
   "success": true,
-  "projectFilePath": "/build/myapp/myapp.csproj",
+  "projectFilePath": "/home/user/wudi-homes/myapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
