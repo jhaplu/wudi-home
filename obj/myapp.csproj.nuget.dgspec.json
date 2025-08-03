@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/user/wudi-homes/myapp.csproj": {}
+    "C:\\Users\\Aditya\\Desktop\\wudi\\wudi-home\\myapp.csproj": {}
   },
   "projects": {
-    "/home/user/wudi-homes/myapp.csproj": {
+    "C:\\Users\\Aditya\\Desktop\\wudi\\wudi-home\\myapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/user/wudi-homes/myapp.csproj",
+        "projectUniqueName": "C:\\Users\\Aditya\\Desktop\\wudi\\wudi-home\\myapp.csproj",
         "projectName": "myapp",
-        "projectPath": "/home/user/wudi-homes/myapp.csproj",
-        "packagesPath": "/home/user/.nuget/packages/",
-        "outputPath": "/home/user/wudi-homes/obj/",
+        "projectPath": "C:\\Users\\Aditya\\Desktop\\wudi\\wudi-home\\myapp.csproj",
+        "packagesPath": "C:\\Users\\Aditya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aditya\\Desktop\\wudi\\wudi-home\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/user/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Aditya\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -38,11 +38,17 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.7.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -62,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/nix/store/3hhkyi53ky9qwjj9vjzg0pyq333vlrla-dotnet-sdk-9.0.203/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
